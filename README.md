@@ -16,9 +16,9 @@ The Pokedex in React is a perfect project to showcase the power of ReactJS, offe
 
 ## 🖼 Screenshots
 <p>
-  <img src="/src/assets/img/pokedex2.png"> 
+  <img src="/src/assets/img/pokedex1.png"> 
+  <img src="/src/assets/img/pokedex2.png">
   <img src="/src/assets/img/pokedex3.png">
-  <img src="/src/assets/img/pokedex1.png">
 </p>
 
 ### Access the Pokedex at: https://react-pokedex-eight-alpha.vercel.app/
