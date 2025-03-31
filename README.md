@@ -49,13 +49,13 @@ To install and run the project locally, follow these steps:
 ### Clone the Repository
 
 ```
-git clone https://github.com/your-username/pokedex-react.git
+git clone https://github.com/your-username/React-Pokedex.git
 ```
 
 ### Navigate to the project folder
 
 ```
-cd pokedex-react
+cd React-Pokedex
 ```
 
 ### Install dependencies
